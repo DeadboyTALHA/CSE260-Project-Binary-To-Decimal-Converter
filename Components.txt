@@ -1,0 +1,12 @@
+Name               Qty
+
+7805 5V Module   -  1
+OR Gate          -  3
+AND Gate         -  5
+NOT Gate         -  1
+LED(RGB)         - 10
+Wire(M-M)        -130
+Breadboard(830)  -2/3
+Resistor(330 Ohm)- 10
+Battery(9V)      -  1
+Connector        -  1
